@@ -10,7 +10,7 @@
       "description": "Control your Claude Code sessions from your iPhone: live status, approvals, answers and prompts.",
       "source": {
         "source": "git-subdir",
-        "url": "taurinexd/touchytua",
+        "url": "https://github.com/taurinexd/touchytua.git",
         "path": "plugin"
       }
     }
